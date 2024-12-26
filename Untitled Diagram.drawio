@@ -1,87 +1,9 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:131.0) Gecko/20100101 Firefox/131.0" version="24.8.6">
-  <diagram name="Page-1" id="M64fUpVo7ZuDjs-AcRBq">
-    <mxGraphModel dx="703" dy="474" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10.15; rv:132.0) Gecko/20100101 Firefox/132.0" version="25.0.3">
+  <diagram name="Page-1" id="g4dtKz6SGLaGVz_X2XY4">
+    <mxGraphModel>
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-7" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;rotation=-180;" vertex="1" parent="1">
-          <mxGeometry x="150" y="205.15" width="22.8" height="29.7" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-10" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
-          <mxGeometry x="200" y="200" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-11" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
-          <mxGeometry x="80" y="200" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-13" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;fillColor=none;rotation=0;shadow=0;" vertex="1" parent="1">
-          <mxGeometry x="50" y="170" width="330" height="140" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-14" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/users/sensor.svg;" vertex="1" parent="1">
-          <mxGeometry x="320" y="200" width="40" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-15" value="" style="html=1;verticalLabelPosition=bottom;align=center;labelBackgroundColor=#ffffff;verticalAlign=top;strokeWidth=2;strokeColor=#0080F0;shadow=0;dashed=0;shape=mxgraph.ios7.icons.lightbulb;rotation=-181;" vertex="1" parent="1">
-          <mxGeometry x="270" y="205.15" width="22.8" height="29.7" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-20" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="160" y="270" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-21" value="" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
-          <mxGeometry x="272.8" y="270" width="20" height="40" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="RP9H2n9T-Lb5xmLIEz4D-24" target="RP9H2n9T-Lb5xmLIEz4D-25">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-24" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="80" y="470" width="60" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-25" value="" style="triangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="212.8" y="460" width="60" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-31" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.devices.cell_phone_generic;" vertex="1" parent="1">
-          <mxGeometry x="425" y="310" width="70" height="127" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-32" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.182;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RP9H2n9T-Lb5xmLIEz4D-13" target="RP9H2n9T-Lb5xmLIEz4D-24">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="390" as="sourcePoint" />
-            <mxPoint x="350" y="340" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-33" value="Gather data from sensors" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="50.000000000000014" y="370" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-35" value="Database" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="80" y="530" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-36" value="Algorithm" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="212.8" y="530" width="60" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-37" value="" style="endArrow=classic;html=1;rounded=0;exitX=1;exitY=0.15;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="RP9H2n9T-Lb5xmLIEz4D-24" target="RP9H2n9T-Lb5xmLIEz4D-31">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="300" y="420" as="sourcePoint" />
-            <mxPoint x="350" y="370" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="140" y="374" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.733;entryY=1.022;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="RP9H2n9T-Lb5xmLIEz4D-25" target="RP9H2n9T-Lb5xmLIEz4D-13">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-39" value="Data visualization in app" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="130" y="350" width="150" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-42" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0;entryDx=330;entryDy=80;entryPerimeter=0;" edge="1" parent="1" source="RP9H2n9T-Lb5xmLIEz4D-31" target="RP9H2n9T-Lb5xmLIEz4D-13">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="460" y="300" as="sourcePoint" />
-            <mxPoint x="450" y="250" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="460" y="250" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="RP9H2n9T-Lb5xmLIEz4D-43" value="Manually change lighting" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="390" y="225" width="140" height="30" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
